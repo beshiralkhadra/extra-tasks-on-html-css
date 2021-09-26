@@ -1,0 +1,18 @@
+table {
+  border: 1px hidden;
+  border-collapse: separate;
+  border-radius: 50px;
+}
+th {
+  padding: 10px;
+
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 1px;
+}
+td {
+  padding: 10px;
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 1px;
+}

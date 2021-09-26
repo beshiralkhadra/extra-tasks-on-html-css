@@ -1,0 +1,17 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+h1 {
+  color: coral;
+}
+h2 {
+  text-align: right;
+  font-family: "EB Garamond", serif;
+}
+div {
+  text-align: right;
+  font-family: "Courier New", Courier, monospace;
+}
+P {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, Courier, monospace;
+}

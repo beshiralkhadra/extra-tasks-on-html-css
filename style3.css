@@ -1,0 +1,25 @@
+div {
+  border: solid;
+  background-color: white;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+body {
+  background-color: #fff7f0;
+}
+.container {
+  margin-top: 30px;
+  border-style: dashed;
+  background-color: white;
+}
+p {
+  border: dashed red;
+  margin-right: 10px;
+}
+article {
+  color: #810280;
+  border: solid 2px #484848;
+  background-color: white;
+  margin-top: 30px;
+  padding: 10px 10px;
+}
