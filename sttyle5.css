@@ -1,29 +1,51 @@
 body {
-  background-color: #ffffcc;
+  background-color: #ff7fff;
+  width: 100%;
+  margin: 0px;
 }
-h1 {
+.first {
   border: hidden;
-  background-color: #ebde52;
-  padding-bottom: 100px;
-  margin-left: 100px;
-  width: 1150px;
-}
-.container {
-  border: hidden white;
+
   background-color: white;
-  padding-top: 70px;
-  width: 750px;
-  margin-left: 100px;
-  padding-left: 10px;
-  margin-top: 0px;
-  float: inline-start;
+  margin-left: 10px;
+  width: 20%;
+  float: left;
 }
-aside {
-  float: right;
-  margin-top: 0px;
+.second {
   border: hidden;
-  background-color: #e3e3e3;
-  width: 300px;
-  margin-right: 250px;
-  height: 530px;
+  background-color: white;
+  margin-left: 10px;
+  width: 20%;
+  float: left;
+}
+.third {
+  border: hidden;
+  background-color: white;
+  margin-left: 10px;
+  width: 20%;
+  float: left;
+}
+.fourth {
+  border: solid;
+  border-right: hidden;
+  border-left: hidden;
+  float: none;
+  clear: both;
+  margin-top: 50px;
+  margin-left: 10px;
+}
+.fifth {
+  border: hidden;
+  background-color: white;
+  margin-left: 10px;
+  width: 20%;
+  float: left;
+  clear: both;
+}
+.sisth {
+  border: hidden;
+  background-color: white;
+  margin-left: 10px;
+  width: 20%;
+  float: left;
 }
